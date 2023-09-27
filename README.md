@@ -10,3 +10,4 @@
 |4 | [Результаты АБ-теста для мобильного приложения](https://github.com/olgakhandarova/Portfolio/tree/main/AB-test%20Mobile%20App) | Оценка влияния изменения на поведение пользователей | Python, Pandas, SciPy, Matplotlib, Plotly  
 |5 | [Рынок заведений общественного питания](https://github.com/olgakhandarova/Portfolio/tree/main/Catering) | Исследование рынка и поиск места для открытия кофейни | Python, Pandas, Folium, Plotly
 |6 | [Реклама развлекательного приложения](https://github.com/olgakhandarova/Portfolio/tree/main/Entertainment%20App) | Поиск причин убытков и корректировка рекламной стратегии | Python, Pandas, Matplotlib, когортный анализ
+|7 | [Популярность компьютерных игр](https://github.com/olgakhandarova/Portfolio/tree/main/Games) | Исследования рынка для рекламной стратегии | Python, Pandas, Seaborn, Matplotlib, SciPy
